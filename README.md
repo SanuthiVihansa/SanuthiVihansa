@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanuthi Vihansa</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">A passionate developer</h2>
 <img align= "center" alt="coding" width="1200" height = "500" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 <!-- https://miro.medium.com/max/828/1*tVchIAExxvTI3IbMpfPOgQ.gif -->
 
