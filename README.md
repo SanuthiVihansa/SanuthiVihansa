@@ -27,7 +27,4 @@
 <p><img align="center" width="1200" src="https://github-readme-stats.vercel.app/api?username=SanuthiVihansa&theme=dark&show_icons=true" alt="sanuthivihansa" /></p>
 <br>
 
-<p><img align="center" width="1200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanuthiVihansa&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="sanuthivihansa" /></p>
-
-
 <p><img align="center"  width="1200" src="https://github-readme-streak-stats.herokuapp.com/?user=sanuthivihansa&theme=dark" alt="sanuthivihansa" /></p>
